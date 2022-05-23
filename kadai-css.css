@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+header {
+  color: #ffcccc;
+  width: 1000px;
+}
+
+#main {
+  color: #ccffcc;
+  width: 700px;
+}
+
+#menu {
+  color: #ccccff;
+  width: 300px;
+}
+
+footer {
+  color: #ffccff;
+  width: 1000px;
+}
